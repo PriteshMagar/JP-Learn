@@ -17,7 +17,8 @@ Features:
 Data:
 
 JSON datasets for Kanji, Grammar, and Reading
-Source: Language-Learning-Decks (Japanese) by vbvss199
+
+Source: Language-Learning-Decks (Japanese) by vbvss199 https://github.com/vbvss199/Language-Learning-decks/tree/main/japanese
 
 📜 License
 
