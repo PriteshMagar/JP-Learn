@@ -1,0 +1,551 @@
+[
+  {
+    "id": 1,
+    "title": "Particle は (topic marker)",
+    "explanation": "Marks the topic of a sentence — what the sentence is about.",
+    "examples": [
+      { "jp": "私は学生です。", "en": "I am a student." },
+      { "jp": "今日は暑いです。", "en": "Today is hot." }
+    ],
+    "level": "N5",
+    "tags": ["particle", "basic"]
+  },
+  {
+    "id": 2,
+    "title": "Particle が (subject marker / contrast)",
+    "explanation": "Often marks the subject or introduces new information; used for contrast.",
+    "examples": [
+      { "jp": "だれが来ますか？", "en": "Who will come?" },
+      { "jp": "私がやります。", "en": "I'll do it." }
+    ],
+    "level": "N5",
+    "tags": ["particle", "basic"]
+  },
+  {
+    "id": 3,
+    "title": "Particle を (object marker)",
+    "explanation": "Marks the direct object (what the action acts on).",
+    "examples": [
+      { "jp": "本を読みます。", "en": "I read a book." },
+      { "jp": "コーヒーを飲む。", "en": "Drink coffee." }
+    ],
+    "level": "N5",
+    "tags": ["particle", "basic"]
+  },
+  {
+    "id": 4,
+    "title": "Particle に (time / destination / indirect object)",
+    "explanation": "Used for destination, time, or indirect object (to someone).",
+    "examples": [
+      { "jp": "学校に行きます。", "en": "I go to school." },
+      { "jp": "三時に会いましょう。", "en": "Let's meet at 3 o'clock." }
+    ],
+    "level": "N5",
+    "tags": ["particle", "basic"]
+  },
+  {
+    "id": 5,
+    "title": "Particle で (location of action / means)",
+    "explanation": "Indicates place where an action takes place or means/method.",
+    "examples": [
+      { "jp": "図書館で勉強します。", "en": "I study at the library." },
+      { "jp": "バスで行きます。", "en": "I go by bus." }
+    ],
+    "level": "N5",
+    "tags": ["particle", "basic"]
+  },
+  {
+    "id": 6,
+    "title": "です / だ (copula — polite vs plain)",
+    "explanation": "Copula used to link subject and predicate; です is polite, だ is plain.",
+    "examples": [
+      { "jp": "彼は先生です。", "en": "He is a teacher." },
+      { "jp": "彼は先生だ。", "en": "He is a teacher. (plain)" }
+    ],
+    "level": "N5",
+    "tags": ["copula", "politeness"]
+  },
+  {
+    "id": 7,
+    "title": "ます / ません (polite verb forms)",
+    "explanation": "Polite present affirmative (-ます) and negative (-ません) forms.",
+    "examples": [
+      { "jp": "行きます／行きません。", "en": "I go / I do not go." },
+      { "jp": "食べます／食べません。", "en": "I eat / I do not eat." }
+    ],
+    "level": "N5",
+    "tags": ["verb", "politeness"]
+  },
+  {
+    "id": 8,
+    "title": "Plain forms: dictionary / negative",
+    "explanation": "Casual (dictionary) form and casual negative (-ない).",
+    "examples": [
+      { "jp": "行く／行かない。", "en": "Go / Do not go." },
+      { "jp": "見る／見ない。", "en": "See / Do not see." }
+    ],
+    "level": "N5",
+    "tags": ["verb", "casual"]
+  },
+  {
+    "id": 9,
+    "title": "Past tense: た / ました",
+    "explanation": "Past plain ends with -た/-だ; polite past uses -ました.",
+    "examples": [
+      { "jp": "食べた。／食べました。", "en": "Ate. / Ate. (polite)" },
+      { "jp": "行った。／行きました。", "en": "Went. / Went. (polite)" }
+    ],
+    "level": "N5",
+    "tags": ["verb", "tense"]
+  },
+  {
+    "id": 10,
+    "title": "〜て form (connection / requests / progressive)",
+    "explanation": "Used to connect actions, make requests, or form progressive (〜ている).",
+    "examples": [
+      { "jp": "本を読んで、寝ました。", "en": "I read a book and slept." },
+      { "jp": "待ってください。", "en": "Please wait." },
+      { "jp": "今、勉強しています。", "en": "I am studying now." }
+    ],
+    "level": "N5",
+    "tags": ["verb", "forms"]
+  },
+  {
+    "id": 11,
+    "title": "Potential form (can do)",
+    "explanation": "Expresses ability: ru-verbs → -られる / -られる (or drop + られる); u-verbs change ending.",
+    "examples": [
+      { "jp": "日本語が話せます。", "en": "I can speak Japanese." },
+      { "jp": "泳げる。", "en": "Can swim." }
+    ],
+    "level": "N4",
+    "tags": ["verb", "ability"]
+  },
+  {
+    "id": 12,
+    "title": "Passive form (受身)",
+    "explanation": "Expresses that the subject receives an action; used for indirectness and when something is done to you.",
+    "examples": [
+      { "jp": "先生に褒められた。", "en": "I was praised by the teacher." },
+      { "jp": "ドアが開けられた。", "en": "The door was opened." }
+    ],
+    "level": "N3",
+    "tags": ["verb", "voice"]
+  },
+  {
+    "id": 13,
+    "title": "Causative form (〜させる)",
+    "explanation": "Expresses letting or making someone do something.",
+    "examples": [
+      { "jp": "子供を遊ばせる。", "en": "Let the child play." },
+      { "jp": "先生は学生に作文を書かせた。", "en": "The teacher made the students write an essay." }
+    ],
+    "level": "N3",
+    "tags": ["verb", "voice"]
+  },
+  {
+    "id": 14,
+    "title": "Desire: 〜たい / 〜ほしい",
+    "explanation": "〜たい attaches to verb stem for 'want to do'; ほしい expresses wanting a noun.",
+    "examples": [
+      { "jp": "日本へ行きたい。", "en": "I want to go to Japan." },
+      { "jp": "新しい本がほしい。", "en": "I want a new book." }
+    ],
+    "level": "N4",
+    "tags": ["expression", "desire"]
+  },
+  {
+    "id": 15,
+    "title": "〜ことがある (experience / sometimes)",
+    "explanation": "Indicates that something has happened before or occurs sometimes.",
+    "examples": [
+      { "jp": "日本へ行ったことがある。", "en": "I have been to Japan." },
+      { "jp": "時々映画を見ることがある。", "en": "Sometimes I watch movies." }
+    ],
+    "level": "N4",
+    "tags": ["experience", "frequency"]
+  },
+  {
+    "id": 16,
+    "title": "〜でしょう / だろう (probability / guess)",
+    "explanation": "Used to express probability or a polite guess.",
+    "examples": [
+      { "jp": "明日は雨でしょう。", "en": "It will probably rain tomorrow." },
+      { "jp": "彼は来るだろう。", "en": "He will probably come." }
+    ],
+    "level": "N4",
+    "tags": ["modality", "politeness"]
+  },
+  {
+    "id": 17,
+    "title": "〜ながら (while doing)",
+    "explanation": "Indicates two simultaneous actions (one ongoing while another happens).",
+    "examples": [
+      { "jp": "音楽を聞きながら勉強する。", "en": "I study while listening to music." }
+    ],
+    "level": "N3",
+    "tags": ["conjunction", "simultaneity"]
+  },
+  {
+    "id": 18,
+    "title": "〜ため(に) (because / in order to)",
+    "explanation": "Can mean 'because' (reason) or 'in order to' (purpose) depending on context.",
+    "examples": [
+      { "jp": "病気のため、学校を休んだ。", "en": "Because of illness, I missed school." },
+      { "jp": "合格するために、勉強します。", "en": "I study in order to pass." }
+    ],
+    "level": "N3",
+    "tags": ["reason", "purpose"]
+  },
+  {
+    "id": 19,
+    "title": "Conditionals: 〜たら / 〜なら / 〜と",
+    "explanation": "Different conditional forms: たら (if/when), なら (if, based on assumption), と (whenever/general truth).",
+    "examples": [
+      { "jp": "時間があったら、来てください。", "en": "If you have time, please come." },
+      { "jp": "行くなら、私も行く。", "en": "If you go, I'll go too." },
+      { "jp": "春になると、桜が咲く。", "en": "When spring comes, cherry blossoms bloom." }
+    ],
+    "level": "N4",
+    "tags": ["conditional"]
+  },
+  {
+    "id": 20,
+    "title": "Comparisons: より / ほど",
+    "explanation": "より for comparing A is more than B; ほど used in 'not as ~ as' patterns and to indicate degree.",
+    "examples": [
+      { "jp": "犬より猫の方が好きです。", "en": "I like cats more than dogs." },
+      { "jp": "彼ほど速く走れない。", "en": "I can't run as fast as him." }
+    ],
+    "level": "N4",
+    "tags": ["comparison"]
+  },
+  {
+    "id": 21,
+    "title": "〜から / ので (because / reason)",
+    "explanation": "Both express reason; ので is softer/less direct than から.",
+    "examples": [
+      { "jp": "雨が降っているから、出かけません。", "en": "Because it's raining, I won't go out." },
+      { "jp": "風邪をひいたので、学校を休みます。", "en": "I have a cold, so I'll rest from school." }
+    ],
+    "level": "N5",
+    "tags": ["reason"]
+  },
+  {
+    "id": 22,
+    "title": "〜でしょうか / 〜かもしれない (polite question / maybe)",
+    "explanation": "〜でしょうか is polite speculation or question; 〜かもしれない expresses possibility (might).",
+    "examples": [
+      { "jp": "彼は来るでしょうか。", "en": "Do you think he will come?" },
+      { "jp": "雨が降るかもしれない。", "en": "It might rain." }
+    ],
+    "level": "N4",
+    "tags": ["modality"]
+  },
+  {
+    "id": 23,
+    "title": "〜ようにする / 〜ようになる (try to / become able to)",
+    "explanation": "〜ようにする: make an effort to do something; 〜ようになる: change of state (become able to).",
+    "examples": [
+      { "jp": "毎日勉強するようにしています。", "en": "I try to study every day." },
+      { "jp": "日本語が話せるようになった。", "en": "I became able to speak Japanese." }
+    ],
+    "level": "N3",
+    "tags": ["change", "habit"]
+  },
+  {
+    "id": 24,
+    "title": "〜てしまう (completion / regret)",
+    "explanation": "Indicates an action completed (sometimes with regret) or unintended completion.",
+    "examples": [
+      { "jp": "宿題を忘れてしまった。", "en": "I forgot my homework (regret)." },
+      { "jp": "もう食べてしまった。", "en": "I already ate it." }
+    ],
+    "level": "N3",
+    "tags": ["aspect"]
+  },
+  {
+    "id": 25,
+    "title": "Attempts / invitations: 〜ませんか / 〜てみる",
+    "explanation": "〜ませんか is an invitation (won't you ~); 〜てみる is to try doing something to see.",
+    "examples": [
+      { "jp": "一緒に映画を見ませんか？", "en": "Won't you watch a movie with me?" },
+      { "jp": "この料理を食べてみる。", "en": "I'll try eating this dish." }
+    ],
+    "level": "N4",
+    "tags": ["invitation", "trial"]
+  },
+  {
+    "id": 26,
+    "title": "Counters (〜つ / 人 / 本 / 枚 etc.)",
+    "explanation": "Japanese uses many counters; choose the correct one for objects, people, flat things, long cylindrical objects, etc.",
+    "examples": [
+      { "jp": "りんごを二つ食べた。", "en": "I ate two apples." },
+      { "jp": "本を三冊買った。", "en": "I bought three books." }
+    ],
+    "level": "N5",
+    "tags": ["vocabulary", "usage"]
+  },
+  {
+    "id": 27,
+    "title": "〜という / と言う (quoting / called)",
+    "explanation": "Used to quote speech or indicate what something is called / described as.",
+    "examples": [
+      { "jp": "彼は『行く』と言った。", "en": "He said 'I'll go'." },
+      { "jp": "それは『さくら』という花です。", "en": "That is a flower called 'sakura'." }
+    ],
+    "level": "N4",
+    "tags": ["quoting", "naming"]
+  },
+  {
+    "id": 28,
+    "title": "〜しか〜ない (only / nothing but)",
+    "explanation": "Indicates limitation — only (and nothing else).",
+    "examples": [
+      { "jp": "100円しかない。", "en": "I only have 100 yen." },
+      { "jp": "水しか飲まない。", "en": "I drink nothing but water." }
+    ],
+    "level": "N3",
+    "tags": ["limitation"]
+  },
+  {
+    "id": 29,
+    "title": "〜てもいい (permission) / 〜てはいけない (prohibition)",
+    "explanation": "〜てもいい gives permission; 〜てはいけない forbids an action.",
+    "examples": [
+      { "jp": "ここで写真を撮ってもいいですか？", "en": "May I take a photo here?" },
+      { "jp": "ここでタバコを吸ってはいけません。", "en": "You must not smoke here." }
+    ],
+    "level": "N5",
+    "tags": ["politeness", "rules"]
+  },
+  {
+    "id": 30,
+    "title": "Relative clauses (noun modification)",
+    "explanation": "Japanese places clauses before the noun they modify (no relative pronoun).",
+    "examples": [
+      { "jp": "私が昨日買った本。", "en": "The book I bought yesterday." },
+      { "jp": "話している人は先生です。", "en": "The person who is speaking is a teacher." }
+    ],
+    "level": "N4",
+    "tags": ["syntax"]
+  },
+  {
+    "id": 31,
+    "title": "〜ほうがいい (advice / better to)",
+    "explanation": "Gives advice — 'you better ~' or 'it would be better to ~'.",
+    "examples": [
+      { "jp": "もっと野菜を食べたほうがいい。", "en": "You should eat more vegetables." },
+      { "jp": "早く寝たほうがいいよ。", "en": "You should go to bed early." }
+    ],
+    "level": "N4",
+    "tags": ["advice"]
+  },
+  {
+    "id": 32,
+    "title": "〜に行く / 来る / 帰る (movement with purpose)",
+    "explanation": "Use verb stem + に + 行く/来る/帰る to indicate going somewhere to do something.",
+    "examples": [
+      { "jp": "買い物に行く。", "en": "Go shopping (go to buy things)." },
+      { "jp": "勉強しに図書館へ来た。", "en": "I came to the library to study." }
+    ],
+    "level": "N4",
+    "tags": ["movement", "purpose"]
+  },
+  {
+    "id": 33,
+    "title": "Expressing frequency: 毎〜 / よく / ときどき",
+    "explanation": "Common adverbs for frequency: every ~, often, sometimes.",
+    "examples": [
+      { "jp": "毎日ジョギングする。", "en": "I jog every day." },
+      { "jp": "時々カフェに行く。", "en": "Sometimes I go to cafes." }
+    ],
+    "level": "N5",
+    "tags": ["adverbs"]
+  },
+  {
+    "id": 34,
+    "title": "Polite requests: 〜てください / 〜ていただけますか",
+    "explanation": "Use 〜てください for polite commands; 〜ていただけますか is more formal/polite.",
+    "examples": [
+      { "jp": "ちょっと待ってください。", "en": "Please wait a moment." },
+      { "jp": "名前を教えていただけますか。", "en": "Could you tell me your name?" }
+    ],
+    "level": "N4",
+    "tags": ["politeness", "request"]
+  },
+  {
+    "id": 35,
+    "title": "〜に/で (indirect object vs place) — nuance recap",
+    "explanation": "Short recap to highlight nuance: に for target/destination/time; で for location of action or means.",
+    "examples": [
+      { "jp": "駅に着いた。 (destination)", "en": "I arrived at the station." },
+      { "jp": "駅で写真を撮った。 (location of action)", "en": "I took a photo at the station." }
+    ],
+    "level": "N5",
+    "tags": ["particle", "recap"]
+  },
+  
+  {
+    "id": 36,
+    "title": "〜ように (so that / in order to)",
+    "explanation": "Indicates purpose or a desired outcome. Often used with verbs of ability or effort.",
+    "examples": [
+      { "jp": "忘れないようにメモします。", "en": "I’ll make a note so I don’t forget." },
+      { "jp": "風邪をひかないように気をつけて。", "en": "Be careful so you don’t catch a cold." }
+    ],
+    "level": "N3",
+    "tags": ["purpose", "conjunction"]
+  },
+  {
+    "id": 37,
+    "title": "〜ようと思う (I think I will...)",
+    "explanation": "Expresses intention or decision to do something.",
+    "examples": [
+      { "jp": "日本に留学しようと思っています。", "en": "I’m thinking of studying abroad in Japan." }
+    ],
+    "level": "N3",
+    "tags": ["intention"]
+  },
+  {
+    "id": 38,
+    "title": "〜らしい (it seems / apparently)",
+    "explanation": "Expresses hearsay or impression (based on indirect info).",
+    "examples": [
+      { "jp": "彼は学生らしい。", "en": "Apparently he’s a student." },
+      { "jp": "明日は雨らしい。", "en": "It seems it will rain tomorrow." }
+    ],
+    "level": "N3",
+    "tags": ["hearsay", "appearance"]
+  },
+  {
+    "id": 39,
+    "title": "〜みたい (looks like / seems)",
+    "explanation": "Casual expression of similarity or appearance.",
+    "examples": [
+      { "jp": "彼は忙しいみたいだ。", "en": "It seems he’s busy." },
+      { "jp": "このケーキはおいしそうみたい。", "en": "This cake looks tasty." }
+    ],
+    "level": "N4",
+    "tags": ["appearance", "casual"]
+  },
+  {
+    "id": 40,
+    "title": "〜そうだ (I heard / looks like)",
+    "explanation": "Two uses: (1) hearsay (I heard...), (2) appearance (looks like...).",
+    "examples": [
+      { "jp": "雨が降るそうです。", "en": "I heard it will rain." },
+      { "jp": "この料理は美味しそうだ。", "en": "This dish looks delicious." }
+    ],
+    "level": "N4",
+    "tags": ["hearsay", "appearance"]
+  },
+  {
+    "id": 41,
+    "title": "〜ように言う (tell someone to...)",
+    "explanation": "Used when relaying instructions or requests.",
+    "examples": [
+      { "jp": "先生は学生に宿題を出すように言った。", "en": "The teacher told the students to hand in homework." }
+    ],
+    "level": "N3",
+    "tags": ["indirect speech"]
+  },
+  {
+    "id": 42,
+    "title": "〜ことになる / 〜ことにする",
+    "explanation": "ことになる = decision made by others/circumstances; ことにする = decision made by oneself.",
+    "examples": [
+      { "jp": "来月、日本へ行くことになった。", "en": "It’s been decided that I will go to Japan next month." },
+      { "jp": "毎日日本語を勉強することにした。", "en": "I decided to study Japanese every day." }
+    ],
+    "level": "N3",
+    "tags": ["decision", "circumstance"]
+  },
+  {
+    "id": 43,
+    "title": "〜ばよかった (I wish I had...)",
+    "explanation": "Expresses regret about something not done.",
+    "examples": [
+      { "jp": "勉強すればよかった。", "en": "I wish I had studied." },
+      { "jp": "行かなければよかった。", "en": "I shouldn’t have gone." }
+    ],
+    "level": "N3",
+    "tags": ["regret"]
+  },
+  {
+    "id": 44,
+    "title": "〜ように頼む / 言う (ask/tell someone to...)",
+    "explanation": "Indirect request/command phrasing.",
+    "examples": [
+      { "jp": "母は私に早く帰るように言った。", "en": "My mother told me to come home early." }
+    ],
+    "level": "N3",
+    "tags": ["indirect request"]
+  },
+  {
+    "id": 45,
+    "title": "〜てもらう / 〜てくれる / 〜てあげる",
+    "explanation": "Giving/receiving actions: てもらう (receive), てくれる (give to me), てあげる (give to others).",
+    "examples": [
+      { "jp": "友達に手伝ってもらった。", "en": "I got help from a friend." },
+      { "jp": "先生が説明してくれた。", "en": "The teacher explained (for me)." },
+      { "jp": "私は妹にケーキを作ってあげた。", "en": "I made a cake for my younger sister." }
+    ],
+    "level": "N4",
+    "tags": ["giving", "receiving"]
+  },
+  {
+    "id": 46,
+    "title": "〜ように見える / 聞こえる",
+    "explanation": "Expresses appearance/sound — 'seems like' (visual/auditory impression).",
+    "examples": [
+      { "jp": "彼は元気なように見える。", "en": "He looks healthy." },
+      { "jp": "音楽が聞こえるようにする。", "en": "Make it so you can hear the music." }
+    ],
+    "level": "N3",
+    "tags": ["appearance", "senses"]
+  },
+  {
+    "id": 47,
+    "title": "〜ば〜ほど (the more..., the more...)",
+    "explanation": "Expresses proportional relationship.",
+    "examples": [
+      { "jp": "勉強すればするほど上手になります。", "en": "The more you study, the better you get." }
+    ],
+    "level": "N3",
+    "tags": ["comparison", "degree"]
+  },
+  {
+    "id": 48,
+    "title": "〜わけ (reason / conclusion / of course)",
+    "explanation": "Explains reasoning or natural conclusion.",
+    "examples": [
+      { "jp": "寒いわけだ。暖房が壊れている。", "en": "No wonder it’s cold — the heater is broken." },
+      { "jp": "彼は日本に10年住んでいたから、日本語が上手なわけだ。", "en": "Of course he’s good at Japanese, he lived in Japan for 10 years." }
+    ],
+    "level": "N3",
+    "tags": ["reasoning", "explanation"]
+  },
+  {
+    "id": 49,
+    "title": "〜に違いない (must be...)",
+    "explanation": "Expresses strong certainty.",
+    "examples": [
+      { "jp": "あの人は先生に違いない。", "en": "That person must be a teacher." }
+    ],
+    "level": "N3",
+    "tags": ["certainty"]
+  },
+  {
+    "id": 50,
+    "title": "〜ばかり (nothing but / just finished)",
+    "explanation": "Expresses exclusivity (only) or recent completion.",
+    "examples": [
+      { "jp": "テレビばかり見ている。", "en": "I do nothing but watch TV." },
+      { "jp": "今食べたばかりです。", "en": "I just ate." }
+    ],
+    "level": "N3",
+    "tags": ["aspect", "limitation"]
+  }
+
+]

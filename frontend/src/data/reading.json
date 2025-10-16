@@ -1,0 +1,196 @@
+[
+  {
+    "id":1,"level":"N5","jp":"私は学生です。","furigana":"わたしは がくせいです。","romaji":"Watashi wa gakusei desu.","en":"I am a student."
+  },
+  {
+    "id":2,"level":"N5","jp":"毎日コーヒーを飲みます。","furigana":"まいにち コーヒーを のみます。","romaji":"Mainichi koohii o nomimasu.","en":"I drink coffee every day."
+  },
+  {
+    "id":3,"level":"N5","jp":"昨日は雨でした。","furigana":"きのうは あめでした。","romaji":"Kinou wa ame deshita.","en":"It rained yesterday."
+  },
+  {
+    "id":4,"level":"N5","jp":"駅まで歩きます。","furigana":"えきまで あるきます。","romaji":"Eki made arukimasu.","en":"I walk to the station."
+  },
+  {
+    "id":5,"level":"N5","jp":"私は毎朝七時に起きます。","furigana":"わたしは まいあさ しちじに おきます。","romaji":"Watashi wa maiasa shichiji ni okimasu.","en":"I wake up at 7 every morning."
+  },
+  {
+    "id":6,"level":"N5","jp":"友達と映画を見ました。","furigana":"ともだちと えいがを みました。","romaji":"Tomodachi to eiga o mimashita.","en":"I watched a movie with my friend."
+  },
+  {
+    "id":7,"level":"N5","jp":"この本はとても面白いです。","furigana":"この ほんは とても おもしろいです。","romaji":"Kono hon wa totemo omoshiroi desu.","en":"This book is very interesting."
+  },
+  {
+    "id":8,"level":"N5","jp":"猫がテーブルの上にいます。","furigana":"ねこが テーブルの うえに います。","romaji":"Neko ga teeburu no ue ni imasu.","en":"The cat is on the table."
+  },
+  {
+    "id":9,"level":"N5","jp":"私は日本語を勉強しています。","furigana":"わたしは にほんごを べんきょうしています。","romaji":"Watashi wa nihongo o benkyou shiteimasu.","en":"I am studying Japanese."
+  },
+  {
+    "id":10,"level":"N5","jp":"今日は暑いです。","furigana":"きょうは あついです。","romaji":"Kyou wa atsui desu.","en":"Today is hot."
+  },
+  {
+    "id":11,"level":"N5","jp":"兄は背が高いです。","furigana":"あには せが たかいです。","romaji":"Ani wa se ga takai desu.","en":"My older brother is tall."
+  },
+  {
+    "id":12,"level":"N5","jp":"りんごを三つ買いました。","furigana":"りんごを みっつ かいました。","romaji":"Ringo o mittsu kaimashita.","en":"I bought three apples."
+  },
+  {
+    "id":13,"level":"N5","jp":"あそこにコンビニがあります。","furigana":"あそこに コンビニが あります。","romaji":"Asoko ni konbini ga arimasu.","en":"There is a convenience store over there."
+  },
+  {
+    "id":14,"level":"N5","jp":"私は毎晩音楽を聞きます。","furigana":"わたしは まいばん おんがくを ききます。","romaji":"Watashi wa maiban ongaku o kikimasu.","en":"I listen to music every night."
+  },
+  {
+    "id":15,"level":"N5","jp":"公園でサッカーをしました。","furigana":"こうえんで サッカーを しました。","romaji":"Kouen de sakkaa o shimashita.","en":"I played soccer in the park."
+  },
+  {
+    "id":16,"level":"N5","jp":"日本へ行きたいです。","furigana":"にほんへ いきたいです。","romaji":"Nihon e ikitai desu.","en":"I want to go to Japan."
+  },
+  {
+    "id":17,"level":"N5","jp":"彼女はとても親切です。","furigana":"かのじょは とても しんせつです。","romaji":"Kanojo wa totemo shinsetsu desu.","en":"She is very kind."
+  },
+  {
+    "id":18,"level":"N5","jp":"今日は友達の家に行きます。","furigana":"きょうは ともだちの いえに いきます。","romaji":"Kyou wa tomodachi no ie ni ikimasu.","en":"Today I will go to my friend’s house."
+  },
+  {
+    "id":19,"level":"N5","jp":"この車は新しいです。","furigana":"この くるまは あたらしいです。","romaji":"Kono kuruma wa atarashii desu.","en":"This car is new."
+  },
+  {
+    "id":20,"level":"N5","jp":"先生に質問しました。","furigana":"せんせいに しつもんしました。","romaji":"Sensei ni shitsumon shimashita.","en":"I asked the teacher a question."
+  },
+  {"id":21,"level":"N5","jp":"今、テレビを見ています。","furigana":"いま、テレビを みています。","romaji":"Ima, terebi o miteimasu.","en":"I am watching TV now."},
+  {"id":22,"level":"N5","jp":"朝ご飯を食べました。","furigana":"あさごはんを たべました。","romaji":"Asagohan o tabemashita.","en":"I ate breakfast."},
+  {"id":23,"level":"N5","jp":"図書館で勉強します。","furigana":"としょかんで べんきょうします。","romaji":"Toshokan de benkyou shimasu.","en":"I study at the library."},
+  {"id":24,"level":"N5","jp":"妹はかわいいです。","furigana":"いもうとは かわいいです。","romaji":"Imouto wa kawaii desu.","en":"My younger sister is cute."},
+  {"id":25,"level":"N5","jp":"昨日、友達に会いました。","furigana":"きのう、ともだちに あいました。","romaji":"Kinou, tomodachi ni aimashita.","en":"I met my friend yesterday."},
+  {"id":26,"level":"N5","jp":"彼は毎日ジョギングします。","furigana":"かれは まいにち ジョギングします。","romaji":"Kare wa mainichi jogingu shimasu.","en":"He jogs every day."},
+  {"id":27,"level":"N5","jp":"雨の日は家にいます。","furigana":"あめの ひは いえに います。","romaji":"Ame no hi wa ie ni imasu.","en":"On rainy days, I stay at home."},
+  {"id":28,"level":"N5","jp":"友達と公園で遊びます。","furigana":"ともだちと こうえんで あそびます。","romaji":"Tomodachi to kouen de asobimasu.","en":"I play in the park with friends."},
+  {"id":29,"level":"N5","jp":"毎晩テレビを見ます。","furigana":"まいばん テレビを みます。","romaji":"Maiban terebi o mimasu.","en":"I watch TV every night."},
+  {"id":30,"level":"N5","jp":"今日はとても寒いです。","furigana":"きょうは とても さむいです。","romaji":"Kyou wa totemo samui desu.","en":"Today is very cold."},
+  {"id":31,"level":"N4","jp":"昨日、映画館で映画を見ました。","furigana":"きのう、えいがかんで えいがを みました。","romaji":"Kinou, eigakan de eiga o mimashita.","en":"Yesterday, I watched a movie at the cinema."},
+  {"id":32,"level":"N4","jp":"毎朝、公園でジョギングします。","furigana":"まいあさ、こうえんで ジョギングします。","romaji":"Maiasa, kouen de jogingu shimasu.","en":"I jog in the park every morning."},
+  {"id":33,"level":"N4","jp":"友達と一緒に旅行に行きました。","furigana":"ともだちと いっしょに りょこうに いきました。","romaji":"Tomodachi to issho ni ryokou ni ikimashita.","en":"I went on a trip together with my friends."},
+  {"id":34,"level":"N4","jp":"昨日の夜、雨が降っていました。","furigana":"きのうの よる、あめが ふっていました。","romaji":"Kinou no yoru, ame ga futteimashita.","en":"It was raining last night."},
+  {"id":35,"level":"N4","jp":"兄は毎日仕事に行きます。","furigana":"あには まいにち しごとに いきます。","romaji":"Ani wa mainichi shigoto ni ikimasu.","en":"My older brother goes to work every day."},
+  {"id":36,"level":"N4","jp":"図書館で本を借りました。","furigana":"としょかんで ほんを かりました。","romaji":"Toshokan de hon o karimashita.","en":"I borrowed a book from the library."},
+  {"id":37,"level":"N4","jp":"この店のラーメンはとても美味しいです。","furigana":"この みせの ラーメンは とても おいしいです。","romaji":"Kono mise no raamen wa totemo oishii desu.","en":"The ramen at this shop is very delicious."},
+  {"id":38,"level":"N4","jp":"母は毎晩料理をします。","furigana":"ははは まいばん りょうりを します。","romaji":"Haha wa maiban ryouri o shimasu.","en":"My mother cooks every night."},
+  {"id":39,"level":"N4","jp":"友達に手紙を書きました。","furigana":"ともだちに てがみを かきました。","romaji":"Tomodachi ni tegami o kakimashita.","en":"I wrote a letter to my friend."},
+  {"id":40,"level":"N4","jp":"昨日、スーパーで買い物をしました。","furigana":"きのう、スーパーで かいものを しました。","romaji":"Kinou, suupaa de kaimono o shimashita.","en":"Yesterday, I did shopping at the supermarket."},
+  {"id":41,"level":"N4","jp":"今日は友達の誕生日です。","furigana":"きょうは ともだちの たんじょうびです。","romaji":"Kyou wa tomodachi no tanjoubi desu.","en":"Today is my friend’s birthday."},
+  {"id":42,"level":"N4","jp":"兄弟と公園でサッカーをしました。","furigana":"きょうだいと こうえんで サッカーを しました。","romaji":"Kyoudai to kouen de sakkaa o shimashita.","en":"I played soccer in the park with my siblings."},
+  {"id":43,"level":"N4","jp":"毎朝、牛乳を飲みます。","furigana":"まいあさ、ぎゅうにゅうを のみます。","romaji":"Maiasa, gyuunyuu o nomimasu.","en":"I drink milk every morning."},
+  {"id":44,"level":"N4","jp":"母はスーパーに買い物に行きました。","furigana":"ははは スーパーに かいものに いきました。","romaji":"Haha wa suupaa ni kaimono ni ikimashita.","en":"My mother went shopping at the supermarket."},
+  {"id":45,"level":"N4","jp":"毎週日曜日に教会に行きます。","furigana":"まいしゅう にちようびに きょうかいに いきます。","romaji":"Maishuu nichiyoubi ni kyoukai ni ikimasu.","en":"I go to church every Sunday."},
+  {"id":46,"level":"N4","jp":"昨日、友達とカフェで話しました。","furigana":"きのう、ともだちと カフェで はなしました。","romaji":"Kinou, tomodachi to kafe de hanashimashita.","en":"Yesterday, I talked with my friend at a cafe."},
+  {"id":47,"level":"N4","jp":"兄は毎晩遅くまで働きます。","furigana":"あには まいばん おそくまで はたらきます。","romaji":"Ani wa maiban osoku made hatarakimasu.","en":"My older brother works late every night."},
+  {"id":48,"level":"N4","jp":"図書館で勉強するのが好きです。","furigana":"としょかんで べんきょうするのが すきです。","romaji":"Toshokan de benkyou suru no ga suki desu.","en":"I like studying at the library."},
+  {"id":49,"level":"N4","jp":"今日はとても暑いです。","furigana":"きょうは とても あついです。","romaji":"Kyou wa totemo atsui desu.","en":"Today is very hot."},
+  {"id":50,"level":"N4","jp":"弟はサッカーをしています。","furigana":"おとうとは サッカーを しています。","romaji":"Otouto wa sakkaa o shiteimasu.","en":"My younger brother is playing soccer."},
+  {"id":51,"level":"N4","jp":"昨日の夜、宿題をしました。","furigana":"きのうの よる、しゅくだいを しました。","romaji":"Kinou no yoru, shukudai o shimashita.","en":"I did my homework last night."},
+  {"id":52,"level":"N4","jp":"毎日、新聞を読みます。","furigana":"まいにち、しんぶんを よみます。","romaji":"Mainichi, shinbun o yomimasu.","en":"I read the newspaper every day."},
+  {"id":53,"level":"N4","jp":"友達にプレゼントをあげました。","furigana":"ともだちに プレゼントを あげました。","romaji":"Tomodachi ni purezento o agemashita.","en":"I gave a present to my friend."},
+  {"id":54,"level":"N4","jp":"今日は図書館が休みです。","furigana":"きょうは としょかんが やすみです。","romaji":"Kyou wa toshokan ga yasumi desu.","en":"The library is closed today."},
+  {"id":55,"level":"N4","jp":"母は毎朝コーヒーを飲みます。","furigana":"ははは まいあさ コーヒーを のみます。","romaji":"Haha wa maiasa koohii o nomimasu.","en":"My mother drinks coffee every morning."},
+  {"id":56,"level":"N4","jp":"友達と一緒に勉強しました。","furigana":"ともだちと いっしょに べんきょうしました。","romaji":"Tomodachi to issho ni benkyou shimashita.","en":"I studied together with my friends."},
+  {"id":57,"level":"N4","jp":"今日は仕事が忙しいです。","furigana":"きょうは しごとが いそがしいです。","romaji":"Kyou wa shigoto ga isogashii desu.","en":"I am busy with work today."},
+  {"id":58,"level":"N4","jp":"弟と公園で遊びました。","furigana":"おとうとと こうえんで あそびました。","romaji":"Otouto to kouen de asobimashita.","en":"I played in the park with my younger brother."},
+  {"id":59,"level":"N4","jp":"昨日、スーパーで野菜を買いました。","furigana":"きのう、スーパーで やさいを かいました。","romaji":"Kinou, suupaa de yasai o kaimashita.","en":"I bought vegetables at the supermarket yesterday."},
+  {"id":60,"level":"N4","jp":"今日は友達と映画を見に行きます。","furigana":"きょうは ともだちと えいがを みに いきます。","romaji":"Kyou wa tomodachi to eiga o mi ni ikimasu.","en":"Today I will go to watch a movie with my friend."},
+  {"id":61,"level":"N3","jp":"最近、運動不足で体がだるいです。","furigana":"さいきん、うんどうぶそくで からだが だるいです。","romaji":"Saikin, undoubusoku de karada ga darui desu.","en":"Lately, I feel sluggish due to lack of exercise."},
+  {"id":62,"level":"N3","jp":"彼は日本語を勉強してから、日本に行きました。","furigana":"かれは にほんごを べんきょうしてから、にほんに いきました。","romaji":"Kare wa nihongo o benkyou shite kara, Nihon ni ikimashita.","en":"He studied Japanese and then went to Japan."},
+  {"id":63,"level":"N3","jp":"友達に頼まれて、手伝うことにしました。","furigana":"ともだちに たのまれて、てつだうことに しました。","romaji":"Tomodachi ni tanomarete, tetsudau koto ni shimashita.","en":"My friend asked me, so I decided to help."},
+  {"id":64,"level":"N3","jp":"駅の近くに新しいカフェができました。","furigana":"えきの ちかくに あたらしい カフェが できました。","romaji":"Eki no chikaku ni atarashii kafe ga dekimashita.","en":"A new cafe opened near the station."},
+  {"id":65,"level":"N3","jp":"彼女は勉強も仕事も一生懸命です。","furigana":"かのじょは べんきょうも しごとも いっしょうけんめいです。","romaji":"Kanojo wa benkyou mo shigoto mo isshoukenmei desu.","en":"She puts effort into both studying and work."},
+  {"id":66,"level":"N3","jp":"子供のころからピアノを習っています。","furigana":"こどものころから ピアノを ならっています。","romaji":"Kodomo no koro kara piano o naratteimasu.","en":"I have been learning piano since I was a child."},
+  {"id":67,"level":"N3","jp":"昨日の夜、友達と話しながら夕食を食べました。","furigana":"きのうの よる、ともだちとはなしながら ゆうしょくを たべました。","romaji":"Kinou no yoru, tomodachi to hanashinagara yuushoku o tabemashita.","en":"Last night, I ate dinner while talking with my friend."},
+  {"id":68,"level":"N3","jp":"試験に合格するために、一生懸命勉強します。","furigana":"しけんに ごうかくするために、いっしょうけんめい べんきょうします。","romaji":"Shiken ni goukaku suru tame ni, isshoukenmei benkyou shimasu.","en":"I study hard in order to pass the exam."},
+  {"id":69,"level":"N3","jp":"雨が降ったので、傘を持って行きました。","furigana":"あめが ふったので、かさを もって いきました。","romaji":"Ame ga futta node, kasa o motte ikimashita.","en":"Since it rained, I took an umbrella."},
+  {"id":70,"level":"N3","jp":"新しい仕事に慣れるまで大変でした。","furigana":"あたらしい しごとに なれるまで たいへんでした。","romaji":"Atarashii shigoto ni nareru made taihen deshita.","en":"It was tough until I got used to my new job."},
+  {"id":71,"level":"N3","jp":"彼は毎朝早く起きるようにしています。","furigana":"かれは まいあさ はやく おきるように しています。","romaji":"Kare wa maiasa hayaku okiru you ni shiteimasu.","en":"He tries to wake up early every morning."},
+  {"id":72,"level":"N3","jp":"旅行の計画を立てるのが楽しみです。","furigana":"りょこうの けいかくを たてるのが たのしみです。","romaji":"Ryokou no keikaku o tateru no ga tanoshimi desu.","en":"I am looking forward to planning the trip."},
+  {"id":73,"level":"N3","jp":"昨日、道で財布を落としました。","furigana":"きのう、みちで さいふを おとしました。","romaji":"Kinou, michi de saifu o otoshimashita.","en":"Yesterday, I dropped my wallet on the street."},
+  {"id":74,"level":"N3","jp":"彼女は日本語が上手になりました。","furigana":"かのじょは にほんごが じょうずに なりました。","romaji":"Kanojo wa nihongo ga jouzu ni narimashita.","en":"She has become good at Japanese."},
+  {"id":75,"level":"N3","jp":"忙しい時は、音楽を聞いてリラックスします。","furigana":"いそがしい ときは、おんがくを きいて リラックスします。","romaji":"Isogashii toki wa, ongaku o kiite rirakkusu shimasu.","en":"When busy, I relax by listening to music."},
+  {"id":76,"level":"N3","jp":"子供たちは公園で元気に遊んでいます。","furigana":"こどもたちは こうえんで げんきに あそんでいます。","romaji":"Kodomotachi wa kouen de genki ni asondeimasu.","en":"The children are playing energetically in the park."},
+  {"id":77,"level":"N3","jp":"健康のために、毎日運動するようにしています。","furigana":"けんこうのために、まいにち うんどうするように しています。","romaji":"Kenkou no tame ni, mainichi undou suru you ni shiteimasu.","en":"For my health, I try to exercise every day."},
+  {"id":78,"level":"N3","jp":"彼は日本に来て、たくさんの友達ができました。","furigana":"かれは にほんに きて、たくさんの ともだちが できました。","romaji":"Kare wa Nihon ni kite, takusan no tomodachi ga dekimashita.","en":"After coming to Japan, he made many friends."},
+  {"id":79,"level":"N3","jp":"昨日の晩ご飯はカレーを作りました。","furigana":"きのうの ばんごはんは カレーを つくりました。","romaji":"Kinou no bangohan wa karee o tsukurimashita.","en":"I made curry for dinner yesterday."},
+  {"id":80,"level":"N3","jp":"毎朝、犬の散歩をしています。","furigana":"まいあさ、いぬの さんぽを しています。","romaji":"Maiasa, inu no sanpo o shiteimasu.","en":"I walk my dog every morning."},
+  {"id":81,"level":"N3","jp":"仕事が終わったら、友達と飲みに行きます。","furigana":"しごとが おわったら、ともだちと のみに いきます。","romaji":"Shigoto ga owattara, tomodachi to nomi ni ikimasu.","en":"After work, I go drinking with friends."},
+  {"id":82,"level":"N3","jp":"今日は雨なので、家でゆっくりします。","furigana":"きょうは あめなので、いえで ゆっくりします。","romaji":"Kyou wa ame nanode, ie de yukkuri shimasu.","en":"Since it’s raining today, I’ll relax at home."},
+  {"id":83,"level":"N3","jp":"友達に会うために、駅まで行きました。","furigana":"ともだちに あうために、えきまで いきました。","romaji":"Tomodachi ni au tame ni, eki made ikimashita.","en":"I went to the station to meet my friend."},
+  {"id":84,"level":"N3","jp":"彼女は毎日、日本語の勉強をしています。","furigana":"かのじょは まいにち、にほんごの べんきょうを しています。","romaji":"Kanojo wa mainichi, nihongo no benkyou o shiteimasu.","en":"She studies Japanese every day."},
+  {"id":85,"level":"N3","jp":"昨日の夜、星を見ながら散歩しました。","furigana":"きのうの よる、ほしを みながら さんぽしました。","romaji":"Kinou no yoru, hoshi o minagara sanpo shimashita.","en":"Last night, I took a walk while looking at the stars."},
+  {"id":86,"level":"N3","jp":"試験の前に、ノートを復習しました。","furigana":"しけんの まえに、ノートを ふくしゅうしました。","romaji":"Shiken no mae ni, nooto o fukushuu shimashita.","en":"I reviewed my notes before the exam."},
+  {"id":87,"level":"N3","jp":"仕事の後で、友達と映画を見に行きました。","furigana":"しごとの あとで、ともだちと えいがを みに いきました。","romaji":"Shigoto no ato de, tomodachi to eiga o mi ni ikimashita.","en":"After work, I went to watch a movie with my friend."},
+  {"id":88,"level":"N3","jp":"最近、運動する時間がなくて困っています。","furigana":"さいきん、うんどうする じかんが なくて こまっています。","romaji":"Saikin, undou suru jikan ga nakute komatteimasu.","en":"Lately, I’m troubled because I don’t have time to exercise."},
+  {"id":89,"level":"N3","jp":"母は毎朝、朝ご飯を作っています。","furigana":"ははは まいあさ、あさごはんを つくっています。","romaji":"Haha wa maiasa, asagohan o tsukutteimasu.","en":"My mother makes breakfast every morning."},
+  {"id":90,"level":"N3","jp":"友達と一緒に買い物に行くのが好きです。","furigana":"ともだちと いっしょに かいものに いくのが すきです。","romaji":"Tomodachi to issho ni kaimono ni iku no ga suki desu.","en":"I like going shopping together with my friends."},
+  {"id":91,"level":"N2","jp":"彼は会議の準備をしっかり行いました。","furigana":"かれは かいぎの じゅんびを しっかり おこないました。","romaji":"Kare wa kaigi no junbi o shikkari okonaimashita.","en":"He prepared thoroughly for the meeting."},
+  {"id":92,"level":"N2","jp":"新しいプロジェクトについて上司に報告しました。","furigana":"あたらしい プロジェクトについて じょうしに ほうこくしました。","romaji":"Atarashii purojekuto ni tsuite joushi ni houkoku shimashita.","en":"I reported to my boss about the new project."},
+  {"id":93,"level":"N2","jp":"最近、読書の時間が少なくなりました。","furigana":"さいきん、どくしょの じかんが すくなく なりました。","romaji":"Saikin, dokusho no jikan ga sukunaku narimashita.","en":"Lately, I have less time for reading."},
+  {"id":94,"level":"N2","jp":"彼女は難しい問題を解くのが得意です。","furigana":"かのじょは むずかしい もんだいを とくのが とくいです。","romaji":"Kanojo wa muzukashii mondai o toku no ga tokui desu.","en":"She is good at solving difficult problems."},
+  {"id":95,"level":"N2","jp":"仕事が忙しくて、休日も休めません。","furigana":"しごとが いそがしくて、きゅうじつも やすめません。","romaji":"Shigoto ga isogashikute, kyuujitsu mo yasumemasen.","en":"I’m so busy at work that I can’t rest even on holidays."},
+  {"id":96,"level":"N2","jp":"この計画には多くの問題点があります。","furigana":"この けいかくには おおくの もんだいてんが あります。","romaji":"Kono keikaku ni wa ooku no mondaiten ga arimasu.","en":"This plan has many issues."},
+  {"id":97,"level":"N2","jp":"環境を守るために努力することが大切です。","furigana":"かんきょうを まもるために どりょくすることが たいせつです。","romaji":"Kankyou o mamoru tame ni doryoku suru koto ga taisetsu desu.","en":"It is important to make efforts to protect the environment."},
+  {"id":98,"level":"N2","jp":"この本は内容が難しくて理解しにくいです。","furigana":"この ほんは ないようが むずかしくて りかいしにくいです。","romaji":"Kono hon wa naiyou ga muzukashikute rikai shinikui desu.","en":"This book is difficult and hard to understand."},
+  {"id":99,"level":"N2","jp":"彼は自分の意見をしっかり主張します。","furigana":"かれは じぶんの いけんを しっかり しゅちょうします。","romaji":"Kare wa jibun no iken o shikkari shuchou shimasu.","en":"He firmly expresses his own opinion."},
+  {"id":100,"level":"N2","jp":"新しいシステムを導入する予定です。","furigana":"あたらしい システムを どうにゅうする よていです。","romaji":"Atarashii shisutemu o dounyuu suru yotei desu.","en":"We plan to introduce a new system."},
+  {"id":101,"level":"N2","jp":"仕事の効率を上げるために工夫しました。","furigana":"しごとの こうりつを あげるために くふうしました。","romaji":"Shigoto no kouritsu o ageru tame ni kufuu shimashita.","en":"I made improvements to increase work efficiency."},
+  {"id":102,"level":"N2","jp":"彼女は国際会議で通訳を担当しました。","furigana":"かのじょは こくさいかいぎで つうやくを たんとうしました。","romaji":"Kanojo wa kokusai kaigi de tsuuyaku o tantou shimashita.","en":"She handled interpretation at the international conference."},
+  {"id":103,"level":"N2","jp":"健康のために毎日ジョギングをしています。","furigana":"けんこうのために まいにち ジョギングを しています。","romaji":"Kenkou no tame ni mainichi jogingu o shiteimasu.","en":"I jog every day for my health."},
+  {"id":104,"level":"N2","jp":"新しい知識を得ることは楽しいです。","furigana":"あたらしい ちしきを えることは たのしいです。","romaji":"Atarashii chishiki o eru koto wa tanoshii desu.","en":"Acquiring new knowledge is enjoyable."},
+  {"id":105,"level":"N2","jp":"交通渋滞で遅刻しそうになりました。","furigana":"こうつうじゅうたいで ちこくしそうに なりました。","romaji":"Koutsuu juutai de chikoku shisou ni narimashita.","en":"I almost was late because of traffic jam."},
+  {"id":106,"level":"N2","jp":"大切な書類をなくしてしまいました。","furigana":"たいせつな しょるいを なくして しまいました。","romaji":"Taisetsu na shorui o nakushite shimaimashita.","en":"I accidentally lost an important document."},
+  {"id":107,"level":"N2","jp":"会議で意見をまとめて発表しました。","furigana":"かいぎで いけんを まとめて はっぴょうしました。","romaji":"Kaigi de iken o matomete happyou shimashita.","en":"I summarized opinions and presented them at the meeting."},
+  {"id":108,"level":"N2","jp":"彼は責任感が強く、信頼できます。","furigana":"かれは せきにんかんが つよく、しんらい できます。","romaji":"Kare wa sekininkan ga tsuyoku, shinrai dekimasu.","en":"He is responsible and trustworthy."},
+  {"id":109,"level":"N2","jp":"最近のニュースに驚きました。","furigana":"さいきんの ニュースに おどろきました。","romaji":"Saikin no nyuusu ni odorokimashita.","en":"I was surprised by the recent news."},
+  {"id":110,"level":"N2","jp":"プロジェクトの進捗状況を確認しました。","furigana":"プロジェクトの しんちょく じょうきょうを かくにんしました。","romaji":"Purojekuto no shinchoku joukyou o kakunin shimashita.","en":"I checked the progress of the project."},
+  {"id":111,"level":"N2","jp":"新しいアイデアを提案しました。","furigana":"あたらしい アイデアを ていあんしました。","romaji":"Atarashii aidea o teian shimashita.","en":"I proposed a new idea."},
+  {"id":112,"level":"N2","jp":"彼女は重要な会議に参加しました。","furigana":"かのじょは じゅうような かいぎに さんかしました。","romaji":"Kanojo wa juuyou na kaigi ni sanka shimashita.","en":"She attended an important meeting."},
+  {"id":113,"level":"N2","jp":"毎日、英語のニュースを読むようにしています。","furigana":"まいにち、えいごの ニュースを よむように しています。","romaji":"Mainichi, eigo no nyuusu o yomu you ni shiteimasu.","en":"I try to read English news every day."},
+  {"id":114,"level":"N2","jp":"新しい技術を学ぶことは大切です。","furigana":"あたらしい ぎじゅつを まなぶことは たいせつです。","romaji":"Atarashii gijutsu o manabu koto wa taisetsu desu.","en":"It is important to learn new technology."},
+  {"id":115,"level":"N2","jp":"急な予定変更で混乱しました。","furigana":"きゅうな よてい へんこうで こんらんしました。","romaji":"Kyuu na yotei henkou de konran shimashita.","en":"I was confused by the sudden schedule change."},
+  {"id":116,"level":"N2","jp":"彼は新しい環境にすぐ慣れました。","furigana":"かれは あたらしい かんきょうに すぐ なれました。","romaji":"Kare wa atarashii kankyou ni sugu naremashita.","en":"He quickly got used to the new environment."},
+  {"id":117,"level":"N2","jp":"仕事の締め切りに間に合うように頑張ります。","furigana":"しごとの しめきりに まにあうように がんばります。","romaji":"Shigoto no shimekiri ni maniau you ni ganbarimasu.","en":"I will do my best to meet the work deadline."},
+  {"id":118,"level":"N2","jp":"彼女は人前で話すのが得意です。","furigana":"かのじょは ひとまえではなすのが とくいです。","romaji":"Kanojo wa hitomae de hanasu no ga tokui desu.","en":"She is good at speaking in public."},
+  {"id":119,"level":"N2","jp":"重要な情報はメモしておきましょう。","furigana":"じゅうような じょうほうは メモして おきましょう。","romaji":"Juuyou na jouhou wa memo shite okimashou.","en":"Let's make a note of important information."},
+  {"id":120,"level":"N2","jp":"新しい挑戦に挑むのは楽しいです。","furigana":"あたらしい ちょうせんに いどむのは たのしいです。","romaji":"Atarashii chousen ni idomu no wa tanoshii desu.","en":"It is fun to take on a new challenge."},
+  {"id":121,"level":"N1","jp":"彼の説明は抽象的で理解しにくかった。","furigana":"かれの せつめいは ちゅうしょうてきで りかいしにくかった。","romaji":"Kare no setsumei wa chuushouteki de rikai shinikukatta.","en":"His explanation was abstract and hard to understand."},
+  {"id":122,"level":"N1","jp":"この問題に対して適切な対策を講じる必要がある。","furigana":"この もんだいに たいして てきせつな たいさくを こうじる ひつようが ある。","romaji":"Kono mondai ni taishite tekisetsu na taisaku o koujiru hitsuyou ga aru.","en":"It is necessary to take appropriate measures regarding this issue."},
+  {"id":123,"level":"N1","jp":"社会の変化に柔軟に対応することが重要だ。","furigana":"しゃかいの へんかに じゅうなんに たいおうすることが じゅうようだ。","romaji":"Shakai no henka ni juunan ni taiou suru koto ga juuyou da.","en":"It is important to respond flexibly to social changes."},
+  {"id":124,"level":"N1","jp":"彼女の才能は非常に多岐にわたっている。","furigana":"かのじょの さいのうは ひじょうに たきに わたっている。","romaji":"Kanojo no sainou wa hijou ni taki ni watatte iru.","en":"Her talent spans a wide range."},
+  {"id":125,"level":"N1","jp":"経済状況の悪化が国民生活に影響を及ぼしている。","furigana":"けいざいじょうきょうの あっかが こくみんせいかつに えいきょうを およぼしている。","romaji":"Keizai joukyou no akka ga kokumin seikatsu ni eikyou o oyoboshite iru.","en":"The worsening economic situation is affecting citizens’ lives."},
+  {"id":126,"level":"N1","jp":"技術革新が産業構造を大きく変えた。","furigana":"ぎじゅつかくしんが さんぎょうこうぞうを おおきく かえた。","romaji":"Gijutsu kakushin ga sangyou kouzou o ookiku kaeta.","en":"Technological innovation greatly changed the industrial structure."},
+  {"id":127,"level":"N1","jp":"複雑な状況でも冷静に判断する必要がある。","furigana":"ふくざつな じょうきょうでも れいせいに はんだんする ひつようが ある。","romaji":"Fukuzatsu na joukyou demo reisei ni handan suru hitsuyou ga aru.","en":"It is necessary to make calm judgments even in complex situations."},
+  {"id":128,"level":"N1","jp":"歴史的背景を理解することは重要だ。","furigana":"れきしてき はいけいを りかいすることは じゅうようだ。","romaji":"Rekishiteki haikei o rikai suru koto wa juuyou da.","en":"Understanding the historical background is important."},
+  {"id":129,"level":"N1","jp":"この研究は従来の理論を覆す可能性がある。","furigana":"この けんきゅうは じゅうらいの りろんを くつがえす かのうせいが ある。","romaji":"Kono kenkyuu wa juurai no riron o kutsugaesu kanousei ga aru.","en":"This research may overturn conventional theories."},
+  {"id":130,"level":"N1","jp":"彼の意見は論理的で説得力がある。","furigana":"かれの いけんは ろんりてきで せっとくりょくが ある。","romaji":"Kare no iken wa ronriteki de settokuryoku ga aru.","en":"His opinion is logical and persuasive."},
+  {"id":131,"level":"N1","jp":"環境問題への関心が高まっている。","furigana":"かんきょうもんだいへの かんしんが たかまっている。","romaji":"Kankyou mondai e no kanshin ga takamatte iru.","en":"Interest in environmental issues is increasing."},
+  {"id":132,"level":"N1","jp":"最新のデータに基づいて判断する必要がある。","furigana":"さいしんの データに もとづいて はんだんする ひつようが ある。","romaji":"Saishin no deeta ni motodzuite handan suru hitsuyou ga aru.","en":"Decisions must be made based on the latest data."},
+  {"id":133,"level":"N1","jp":"彼は難題に挑戦する勇気を持っている。","furigana":"かれは なんだいに ちょうせんする ゆうきを もっている。","romaji":"Kare wa nandai ni chousen suru yuuki o motte iru.","en":"He has the courage to challenge difficult problems."},
+  {"id":134,"level":"N1","jp":"この制度は多くの利点を提供している。","furigana":"この せいどは おおくの りてんを ていきょうしている。","romaji":"Kono seido wa ooku no riten o teikyou shite iru.","en":"This system offers many advantages."},
+  {"id":135,"level":"N1","jp":"現代社会では情報の扱いが非常に重要である。","furigana":"げんだいしゃかいでは じょうほうの あつかいが ひじょうに じゅうようである。","romaji":"Gendai shakai de wa jouhou no atsukai ga hijou ni juuyou de aru.","en":"Handling information is extremely important in modern society."},
+  {"id":136,"level":"N1","jp":"多様な文化を理解することは国際交流に欠かせない。","furigana":"たような ぶんかを りかいすることは こくさいこうりゅうに かかせない。","romaji":"Tayou na bunka o rikai suru koto wa kokusai kouryuu ni kakasenai.","en":"Understanding diverse cultures is essential for international exchange."},
+  {"id":137,"level":"N1","jp":"この計画には多くの課題が含まれている。","furigana":"この けいかくには おおくの かだいが ふくまれている。","romaji":"Kono keikaku ni wa ooku no kadai ga fukumarete iru.","en":"This plan includes many challenges."},
+  {"id":138,"level":"N1","jp":"彼女の研究成果は高く評価されている。","furigana":"かのじょの けんきゅうせいかは たかく ひょうかされている。","romaji":"Kanojo no kenkyuu seika wa takaku hyouka sarete iru.","en":"Her research results are highly evaluated."},
+  {"id":139,"level":"N1","jp":"高度な技術を習得するには時間が必要だ。","furigana":"こうどな ぎじゅつを しゅうとくするには じかんが ひつようだ。","romaji":"Koudo na gijutsu o shuutoku suru ni wa jikan ga hitsuyou da.","en":"It takes time to master advanced techniques."},
+  {"id":140,"level":"N1","jp":"彼は論文を書く際に慎重に情報を確認した。","furigana":"かれは ろんぶんを かくさいに しんちょうに じょうほうを かくにんした。","romaji":"Kare wa ronbun o kakusai ni shinchou ni jouhou o kakunin shita.","en":"He carefully verified information when writing the paper."},
+  {"id":141,"level":"N1","jp":"この問題は複雑で簡単には解決できない。","furigana":"この もんだいは ふくざつで かんたんには かいけつできない。","romaji":"Kono mondai wa fukuzatsu de kantan ni wa kaiketsu dekinai.","en":"This problem is complex and cannot be solved easily."},
+  {"id":142,"level":"N1","jp":"将来の目標を明確にすることが大切だ。","furigana":"しょうらいの もくひょうを めいかくに することが たいせつだ。","romaji":"Shourai no mokuhyou o meikaku ni suru koto ga taisetsu da.","en":"It is important to clarify future goals."},
+  {"id":143,"level":"N1","jp":"彼の発言には深い意味が込められている。","furigana":"かれの はつげんには ふかい いみが こめられている。","romaji":"Kare no hatsugen ni wa fukai imi ga komerarete iru.","en":"His statement contains a deep meaning."},
+  {"id":144,"level":"N1","jp":"多くの人々がボランティア活動に参加している。","furigana":"おおくの ひとびとが ボランティア かつどうに さんかしている。","romaji":"Ooku no hitobito ga borantia katsudou ni sanka shite iru.","en":"Many people are participating in volunteer activities."},
+  {"id":145,"level":"N1","jp":"国際会議で意見を述べる機会があった。","furigana":"こくさい かいぎで いけんを のべる きかいが あった。","romaji":"Kokusai kaigi de iken o noberu kikai ga atta.","en":"There was an opportunity to express opinions at the international conference."},
+  {"id":146,"level":"N1","jp":"彼女は困難な状況でも冷静さを保った。","furigana":"かのじょは こんなんな じょうきょうでも れいせいさを たもった。","romaji":"Kanojo wa konnan na joukyou demo reiseisa o tamotta.","en":"She remained calm even in difficult situations."},
+  {"id":147,"level":"N1","jp":"この企画は創造性を重視している。","furigana":"この きかくは そうぞうせいを じゅうししている。","romaji":"Kono kikaku wa souzousei o juushi shite iru.","en":"This project emphasizes creativity."},
+  {"id":148,"level":"N1","jp":"文化遺産を保護することが求められている。","furigana":"ぶんかいさんを ほごすることが もとめられている。","romaji":"Bunka isan o hogo suru koto ga motomerarete iru.","en":"It is required to protect cultural heritage."},
+  {"id":149,"level":"N1","jp":"彼は問題解決能力に優れている。","furigana":"かれは もんだいかいけつのうりょくに すぐれている。","romaji":"Kare wa mondai kaiketsu nouryoku ni sugurete iru.","en":"He excels in problem-solving skills."},
+  {"id":150,"level":"N1","jp":"この文章は難解だが読む価値がある。","furigana":"この ぶんしょうは なんかいだが よむ かちが ある。","romaji":"Kono bunshou wa nankai da ga yomu kachi ga aru.","en":"This text is difficult but worth reading."}
+
+
+
+
+]

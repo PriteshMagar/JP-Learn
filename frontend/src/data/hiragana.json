@@ -1,0 +1,125 @@
+{
+  "hiragana": {
+    "basic": [
+      { "char": "あ", "romaji": "a", "type": "vowel", "examples": ["あさ (asa) - morning"], "strokeSvg": null },
+      { "char": "い", "romaji": "i", "type": "vowel", "examples": ["いぬ (inu) - dog"], "strokeSvg": null },
+      { "char": "う", "romaji": "u", "type": "vowel", "examples": ["うみ (umi) - sea"], "strokeSvg": null },
+      { "char": "え", "romaji": "e", "type": "vowel", "examples": ["えき (eki) - station"], "strokeSvg": null },
+      { "char": "お", "romaji": "o", "type": "vowel", "examples": ["おかね (okane) - money"], "strokeSvg": null },
+
+      { "char": "か", "romaji": "ka", "examples": ["かさ (kasa) - umbrella"], "strokeSvg": null },
+      { "char": "き", "romaji": "ki", "examples": ["き (ki) - tree"], "strokeSvg": null },
+      { "char": "く", "romaji": "ku", "examples": ["くるま (kuruma) - car"], "strokeSvg": null },
+      { "char": "け", "romaji": "ke", "examples": ["けむり (kemuri) - smoke"], "strokeSvg": null },
+      { "char": "こ", "romaji": "ko", "examples": ["こども (kodomo) - child"], "strokeSvg": null },
+
+      { "char": "さ", "romaji": "sa", "examples": ["さくら (sakura) - cherry blossom"], "strokeSvg": null },
+      { "char": "し", "romaji": "shi", "examples": ["しお (shio) - salt"], "strokeSvg": null },
+      { "char": "す", "romaji": "su", "examples": ["すし (sushi) - sushi"], "strokeSvg": null },
+      { "char": "せ", "romaji": "se", "examples": ["せかい (sekai) - world"], "strokeSvg": null },
+      { "char": "そ", "romaji": "so", "examples": ["そら (sora) - sky"], "strokeSvg": null },
+
+      { "char": "た", "romaji": "ta", "examples": ["たべる (taberu) - eat"], "strokeSvg": null },
+      { "char": "ち", "romaji": "chi", "examples": ["ちず (chizu) - map"], "strokeSvg": null },
+      { "char": "つ", "romaji": "tsu", "examples": ["つき (tsuki) - moon"], "strokeSvg": null },
+      { "char": "て", "romaji": "te", "examples": ["て (te) - hand"], "strokeSvg": null },
+      { "char": "と", "romaji": "to", "examples": ["とり (tori) - bird"], "strokeSvg": null },
+
+      { "char": "な", "romaji": "na", "examples": ["なつ (natsu) - summer"], "strokeSvg": null },
+      { "char": "に", "romaji": "ni", "examples": ["にほん (nihon) - Japan"], "strokeSvg": null },
+      { "char": "ぬ", "romaji": "nu", "examples": ["ぬの (nuno) - cloth"], "strokeSvg": null },
+      { "char": "ね", "romaji": "ne", "examples": ["ねこ (neko) - cat"], "strokeSvg": null },
+      { "char": "の", "romaji": "no", "examples": ["のむ (nomu) - drink"], "strokeSvg": null },
+
+      { "char": "は", "romaji": "ha", "examples": ["はな (hana) - flower"], "strokeSvg": null },
+      { "char": "ひ", "romaji": "hi", "examples": ["ひ (hi) - fire"], "strokeSvg": null },
+      { "char": "ふ", "romaji": "fu", "examples": ["ふね (fune) - boat"], "strokeSvg": null },
+      { "char": "へ", "romaji": "he", "examples": ["へや (heya) - room"], "strokeSvg": null },
+      { "char": "ほ", "romaji": "ho", "examples": ["ほし (hoshi) - star"], "strokeSvg": null },
+
+      { "char": "ま", "romaji": "ma", "examples": ["まど (mado) - window"], "strokeSvg": null },
+      { "char": "み", "romaji": "mi", "examples": ["みず (mizu) - water"], "strokeSvg": null },
+      { "char": "む", "romaji": "mu", "examples": ["むし (mushi) - insect"], "strokeSvg": null },
+      { "char": "め", "romaji": "me", "examples": ["め (me) - eye"], "strokeSvg": null },
+      { "char": "も", "romaji": "mo", "examples": ["もり (mori) - forest"], "strokeSvg": null },
+
+      { "char": "や", "romaji": "ya", "examples": ["やま (yama) - mountain"], "strokeSvg": null },
+      { "char": "ゆ", "romaji": "yu", "examples": ["ゆき (yuki) - snow"], "strokeSvg": null },
+      { "char": "よ", "romaji": "yo", "examples": ["よる (yoru) - night"], "strokeSvg": null },
+
+      { "char": "ら", "romaji": "ra", "examples": ["らいねん (rainen) - next year"], "strokeSvg": null },
+      { "char": "り", "romaji": "ri", "examples": ["りんご (ringo) - apple"], "strokeSvg": null },
+      { "char": "る", "romaji": "ru", "examples": ["るす (rusu) - absence"], "strokeSvg": null },
+      { "char": "れ", "romaji": "re", "examples": ["れきし (rekishi) - history"], "strokeSvg": null },
+      { "char": "ろ", "romaji": "ro", "examples": ["ろうそく (rōsoku) - candle"], "strokeSvg": null },
+
+      { "char": "わ", "romaji": "wa", "examples": ["わたし (watashi) - I"], "strokeSvg": null },
+      { "char": "を", "romaji": "wo", "examples": ["を (wo) - object marker"], "strokeSvg": null },
+      { "char": "ん", "romaji": "n", "examples": ["ほん (hon) - book"], "strokeSvg": null }
+    ],
+
+    "dakuten": [
+      { "char": "が", "romaji": "ga", "from": "か", "examples": ["がっこう (gakkō) - school"], "strokeSvg": null },
+      { "char": "ぎ", "romaji": "gi", "from": "き", "examples": ["ぎんこう (ginkō) - bank"], "strokeSvg": null },
+      { "char": "ぐ", "romaji": "gu", "from": "く", "examples": ["ぐん (gun) - army"], "strokeSvg": null },
+      { "char": "げ", "romaji": "ge", "from": "け", "examples": ["げんき (genki) - healthy"], "strokeSvg": null },
+      { "char": "ご", "romaji": "go", "from": "こ", "examples": ["ごはん (gohan) - rice"], "strokeSvg": null },
+
+      { "char": "ざ", "romaji": "za", "from": "さ", "examples": ["ざっし (zasshi) - magazine"], "strokeSvg": null },
+      { "char": "じ", "romaji": "ji", "from": "し", "examples": ["じかん (jikan) - time"], "strokeSvg": null },
+      { "char": "ず", "romaji": "zu", "from": "す", "examples": ["ずっと (zutto) - always"], "strokeSvg": null },
+      { "char": "ぜ", "romaji": "ze", "from": "せ", "examples": ["ぜんぶ (zenbu) - all"], "strokeSvg": null },
+      { "char": "ぞ", "romaji": "zo", "from": "そ", "examples": ["ぞう (zō) - elephant"], "strokeSvg": null },
+
+      { "char": "だ", "romaji": "da", "from": "た", "examples": ["だいがく (daigaku) - university"], "strokeSvg": null },
+      { "char": "ぢ", "romaji": "ji", "from": "ち", "examples": ["はなぢ (hanaji) - nosebleed"], "strokeSvg": null },
+      { "char": "づ", "romaji": "zu", "from": "つ", "examples": ["つづく (tsuzuku) - continue"], "strokeSvg": null },
+      { "char": "で", "romaji": "de", "from": "て", "examples": ["でんしゃ (densha) - train"], "strokeSvg": null },
+      { "char": "ど", "romaji": "do", "from": "と", "examples": ["どようび (doyōbi) - Saturday"], "strokeSvg": null },
+
+      { "char": "ば", "romaji": "ba", "from": "は", "examples": ["ばんごはん (bangohan) - dinner"], "strokeSvg": null },
+      { "char": "び", "romaji": "bi", "from": "ひ", "examples": ["びょういん (byōin) - hospital"], "strokeSvg": null },
+      { "char": "ぶ", "romaji": "bu", "from": "ふ", "examples": ["ぶん (bun) - sentence"], "strokeSvg": null },
+      { "char": "べ", "romaji": "be", "from": "へ", "examples": ["べんきょう (benkyō) - study"], "strokeSvg": null },
+      { "char": "ぼ", "romaji": "bo", "from": "ほ", "examples": ["ぼうし (bōshi) - hat"], "strokeSvg": null }
+    ],
+
+    "handakuten": [
+      { "char": "ぱ", "romaji": "pa", "from": "は", "examples": ["パン (pan) - bread"], "strokeSvg": null },
+      { "char": "ぴ", "romaji": "pi", "from": "ひ", "examples": ["ぴあの (piano) - piano"], "strokeSvg": null },
+      { "char": "ぷ", "romaji": "pu", "from": "ふ", "examples": ["ぷれぜんと (purezento) - present"], "strokeSvg": null },
+      { "char": "ぺ", "romaji": "pe", "from": "へ", "examples": ["ぺん (pen) - pen"], "strokeSvg": null },
+      { "char": "ぽ", "romaji": "po", "from": "ほ", "examples": ["ぽけっと (poketto) - pocket"], "strokeSvg": null }
+    ],
+
+    "yoon": [
+      { "char": "きゃ", "romaji": "kya", "from": "き + や", "examples": ["きゃく (kyaku) - guest"], "strokeSvg": null },
+      { "char": "きゅ", "romaji": "kyu", "from": "き + ゆ", "examples": ["きゅう (kyū) - nine"], "strokeSvg": null },
+      { "char": "きょ", "romaji": "kyo", "from": "き + よ", "examples": ["きょう (kyō) - today"], "strokeSvg": null },
+
+      { "char": "しゃ", "romaji": "sha", "from": "し + や", "examples": ["しゃしん (shashin) - photo"], "strokeSvg": null },
+      { "char": "しゅ", "romaji": "shu", "from": "し + ゆ", "examples": ["しゅくだい (shukudai) - homework"], "strokeSvg": null },
+      { "char": "しょ", "romaji": "sho", "from": "し + よ", "examples": ["しょうがく (shōgaku) - primary school"], "strokeSvg": null },
+
+      { "char": "ちゃ", "romaji": "cha", "from": "ち + や", "examples": ["ちゃわん (chawan) - rice bowl"], "strokeSvg": null },
+      { "char": "ちゅ", "romaji": "chu", "from": "ち + ゆ", "examples": ["ちゅうごく (chūgoku) - China"], "strokeSvg": null },
+      { "char": "ちょ", "romaji": "cho", "from": "ち + よ", "examples": ["ちょう (chō) - butterfly"], "strokeSvg": null },
+
+      { "char": "にゃ", "romaji": "nya", "from": "に + や", "examples": ["にゃんこ (nyanko) - kitty"], "strokeSvg": null },
+      { "char": "にゅ", "romaji": "nyu", "from": "に + ゆ", "examples": ["にゅうがく (nyūgaku) - school entry"], "strokeSvg": null },
+      { "char": "にょ", "romaji": "nyo", "from": "に + よ", "examples": ["にょうぼう (nyōbō) - wife"], "strokeSvg": null },
+
+      { "char": "ひゃ", "romaji": "hya", "from": "ひ + や", "examples": ["ひゃく (hyaku) - hundred"], "strokeSvg": null },
+      { "char": "ひゅ", "romaji": "hyu", "from": "ひ + ゆ", "examples": ["ひゅうが (hyūga) - place name"], "strokeSvg": null },
+      { "char": "ひょ", "romaji": "hyo", "from": "ひ + よ", "examples": ["ひょう (hyō) - chart"], "strokeSvg": null },
+
+      { "char": "みゃ", "romaji": "mya", "from": "み + や", "examples": ["みゃく (myaku) - pulse"], "strokeSvg": null },
+      { "char": "みゅ", "romaji": "myu", "from": "み + ゆ", "examples": ["みゅーじっく (myūjikku) - music"], "strokeSvg": null },
+      { "char": "みょ", "romaji": "myo", "from": "み + よ", "examples": ["みょう (myō) - strange"], "strokeSvg": null },
+
+      { "char": "りゃ", "romaji": "rya", "from": "り + や", "examples": ["りゃく (ryaku) - abbreviation"], "strokeSvg": null },
+      { "char": "りゅ", "romaji": "ryu", "from": "り + ゆ", "examples": ["りゅう (ryū) - dragon"], "strokeSvg": null },
+      { "char": "りょ", "romaji": "ryo", "from": "り + よ", "examples": ["りょう (ryō) - both"], "strokeSvg": null }
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "katakana": {
+    "basic": [
+      { "char": "ア", "romaji": "a", "type": "vowel", "examples": ["アイス (aisu) - ice cream"], "strokeSvg": null },
+      { "char": "イ", "romaji": "i", "type": "vowel", "examples": ["インク (inku) - ink"], "strokeSvg": null },
+      { "char": "ウ", "romaji": "u", "type": "vowel", "examples": ["ウサギ (usagi) - rabbit"], "strokeSvg": null },
+      { "char": "エ", "romaji": "e", "type": "vowel", "examples": ["エビ (ebi) - shrimp"], "strokeSvg": null },
+      { "char": "オ", "romaji": "o", "type": "vowel", "examples": ["オレンジ (orenji) - orange"], "strokeSvg": null },
+
+      { "char": "カ", "romaji": "ka", "examples": ["カメラ (kamera) - camera"], "strokeSvg": null },
+      { "char": "キ", "romaji": "ki", "examples": ["キリン (kirin) - giraffe"], "strokeSvg": null },
+      { "char": "ク", "romaji": "ku", "examples": ["クラス (kurasu) - class"], "strokeSvg": null },
+      { "char": "ケ", "romaji": "ke", "examples": ["ケーキ (kēki) - cake"], "strokeSvg": null },
+      { "char": "コ", "romaji": "ko", "examples": ["コーヒー (kōhī) - coffee"], "strokeSvg": null },
+
+      { "char": "サ", "romaji": "sa", "examples": ["サラダ (sarada) - salad"], "strokeSvg": null },
+      { "char": "シ", "romaji": "shi", "examples": ["シャツ (shatsu) - shirt"], "strokeSvg": null },
+      { "char": "ス", "romaji": "su", "examples": ["スーパー (sūpā) - supermarket"], "strokeSvg": null },
+      { "char": "セ", "romaji": "se", "examples": ["セーター (sētā) - sweater"], "strokeSvg": null },
+      { "char": "ソ", "romaji": "so", "examples": ["ソファ (sofa) - sofa"], "strokeSvg": null },
+
+      { "char": "タ", "romaji": "ta", "examples": ["タクシー (takushī) - taxi"], "strokeSvg": null },
+      { "char": "チ", "romaji": "chi", "examples": ["チョコ (choko) - chocolate"], "strokeSvg": null },
+      { "char": "ツ", "romaji": "tsu", "examples": ["ツナ (tsuna) - tuna"], "strokeSvg": null },
+      { "char": "テ", "romaji": "te", "examples": ["テレビ (terebi) - television"], "strokeSvg": null },
+      { "char": "ト", "romaji": "to", "examples": ["トマト (tomato) - tomato"], "strokeSvg": null },
+
+      { "char": "ナ", "romaji": "na", "examples": ["ナイフ (naifu) - knife"], "strokeSvg": null },
+      { "char": "ニ", "romaji": "ni", "examples": ["ニュース (nyūsu) - news"], "strokeSvg": null },
+      { "char": "ヌ", "romaji": "nu", "examples": ["ヌードル (nūdoru) - noodle"], "strokeSvg": null },
+      { "char": "ネ", "romaji": "ne", "examples": ["ネクタイ (nekutai) - necktie"], "strokeSvg": null },
+      { "char": "ノ", "romaji": "no", "examples": ["ノート (nōto) - notebook"], "strokeSvg": null },
+
+      { "char": "ハ", "romaji": "ha", "examples": ["ハンバーガー (hanbāgā) - hamburger"], "strokeSvg": null },
+      { "char": "ヒ", "romaji": "hi", "examples": ["ヒーロー (hīrō) - hero"], "strokeSvg": null },
+      { "char": "フ", "romaji": "fu", "examples": ["フルーツ (furūtsu) - fruits"], "strokeSvg": null },
+      { "char": "ヘ", "romaji": "he", "examples": ["ヘリコプター (herikoputā) - helicopter"], "strokeSvg": null },
+      { "char": "ホ", "romaji": "ho", "examples": ["ホテル (hoteru) - hotel"], "strokeSvg": null },
+
+      { "char": "マ", "romaji": "ma", "examples": ["マスク (masuku) - mask"], "strokeSvg": null },
+      { "char": "ミ", "romaji": "mi", "examples": ["ミルク (miruku) - milk"], "strokeSvg": null },
+      { "char": "ム", "romaji": "mu", "examples": ["ムービー (mūbī) - movie"], "strokeSvg": null },
+      { "char": "メ", "romaji": "me", "examples": ["メニュー (menyū) - menu"], "strokeSvg": null },
+      { "char": "モ", "romaji": "mo", "examples": ["モンスター (monsutā) - monster"], "strokeSvg": null },
+
+      { "char": "ヤ", "romaji": "ya", "examples": ["ヤギ (yagi) - goat"], "strokeSvg": null },
+      { "char": "ユ", "romaji": "yu", "examples": ["ユニフォーム (yunifōmu) - uniform"], "strokeSvg": null },
+      { "char": "ヨ", "romaji": "yo", "examples": ["ヨット (yotto) - yacht"], "strokeSvg": null },
+
+      { "char": "ラ", "romaji": "ra", "examples": ["ラジオ (rajio) - radio"], "strokeSvg": null },
+      { "char": "リ", "romaji": "ri", "examples": ["リモコン (rimokon) - remote"], "strokeSvg": null },
+      { "char": "ル", "romaji": "ru", "examples": ["ルール (rūru) - rule"], "strokeSvg": null },
+      { "char": "レ", "romaji": "re", "examples": ["レストラン (resutoran) - restaurant"], "strokeSvg": null },
+      { "char": "ロ", "romaji": "ro", "examples": ["ロボット (robotto) - robot"], "strokeSvg": null },
+
+      { "char": "ワ", "romaji": "wa", "examples": ["ワイン (wain) - wine"], "strokeSvg": null },
+      { "char": "ヲ", "romaji": "wo", "examples": ["ヲ (wo) - object marker"], "strokeSvg": null },
+      { "char": "ン", "romaji": "n", "examples": ["パン (pan) - bread"], "strokeSvg": null }
+    ],
+
+    "dakuten": [
+      { "char": "ガ", "romaji": "ga", "from": "カ", "examples": ["ガラス (garasu) - glass"], "strokeSvg": null },
+      { "char": "ギ", "romaji": "gi", "from": "キ", "examples": ["ギター (gitā) - guitar"], "strokeSvg": null },
+      { "char": "グ", "romaji": "gu", "from": "ク", "examples": ["グラス (gurasu) - glass"], "strokeSvg": null },
+      { "char": "ゲ", "romaji": "ge", "from": "ケ", "examples": ["ゲーム (gēmu) - game"], "strokeSvg": null },
+      { "char": "ゴ", "romaji": "go", "from": "コ", "examples": ["ゴルフ (gorufu) - golf"], "strokeSvg": null },
+
+      { "char": "ザ", "romaji": "za", "from": "サ", "examples": ["ザリガニ (zarigani) - crayfish"], "strokeSvg": null },
+      { "char": "ジ", "romaji": "ji", "from": "シ", "examples": ["ジーンズ (jīnzu) - jeans"], "strokeSvg": null },
+      { "char": "ズ", "romaji": "zu", "from": "ス", "examples": ["ズーム (zūmu) - zoom"], "strokeSvg": null },
+      { "char": "ゼ", "romaji": "ze", "from": "セ", "examples": ["ゼリー (zerī) - jelly"], "strokeSvg": null },
+      { "char": "ゾ", "romaji": "zo", "from": "ソ", "examples": ["ゾウ (zō) - elephant"], "strokeSvg": null },
+
+      { "char": "ダ", "romaji": "da", "from": "タ", "examples": ["ダンス (dansu) - dance"], "strokeSvg": null },
+      { "char": "ヂ", "romaji": "ji", "from": "チ", "examples": ["ヂヂミ (chijimi) - Korean pancake"], "strokeSvg": null },
+      { "char": "ヅ", "romaji": "zu", "from": "ツ", "examples": ["ヅラ (zura) - wig"], "strokeSvg": null },
+      { "char": "デ", "romaji": "de", "from": "テ", "examples": ["デート (dēto) - date"], "strokeSvg": null },
+      { "char": "ド", "romaji": "do", "from": "ト", "examples": ["ドア (doa) - door"], "strokeSvg": null },
+
+      { "char": "バ", "romaji": "ba", "from": "ハ", "examples": ["バナナ (banana) - banana"], "strokeSvg": null },
+      { "char": "ビ", "romaji": "bi", "from": "ヒ", "examples": ["ビール (bīru) - beer"], "strokeSvg": null },
+      { "char": "ブ", "romaji": "bu", "from": "フ", "examples": ["ブルー (burū) - blue"], "strokeSvg": null },
+      { "char": "ベ", "romaji": "be", "from": "ヘ", "examples": ["ベッド (beddo) - bed"], "strokeSvg": null },
+      { "char": "ボ", "romaji": "bo", "from": "ホ", "examples": ["ボール (bōru) - ball"], "strokeSvg": null }
+    ],
+
+    "handakuten": [
+      { "char": "パ", "romaji": "pa", "from": "ハ", "examples": ["パンダ (panda) - panda"], "strokeSvg": null },
+      { "char": "ピ", "romaji": "pi", "from": "ヒ", "examples": ["ピザ (piza) - pizza"], "strokeSvg": null },
+      { "char": "プ", "romaji": "pu", "from": "フ", "examples": ["プリン (purin) - pudding"], "strokeSvg": null },
+      { "char": "ペ", "romaji": "pe", "from": "ヘ", "examples": ["ペン (pen) - pen"], "strokeSvg": null },
+      { "char": "ポ", "romaji": "po", "from": "ホ", "examples": ["ポケット (poketto) - pocket"], "strokeSvg": null }
+    ],
+
+    "yoon": [
+      { "char": "キャ", "romaji": "kya", "from": "キ + ヤ", "examples": ["キャベツ (kyabetsu) - cabbage"], "strokeSvg": null },
+      { "char": "キュ", "romaji": "kyu", "from": "キ + ユ", "examples": ["キュウリ (kyūri) - cucumber"], "strokeSvg": null },
+      { "char": "キョ", "romaji": "kyo", "from": "キ + ヨ", "examples": ["キョウト (Kyōto) - Kyoto"], "strokeSvg": null },
+
+      { "char": "シャ", "romaji": "sha", "from": "シ + ヤ", "examples": ["シャワー (shawā) - shower"], "strokeSvg": null },
+      { "char": "シュ", "romaji": "shu", "from": "シ + ユ", "examples": ["シュート (shūto) - shoot"], "strokeSvg": null },
+      { "char": "ショ", "romaji": "sho", "from": "シ + ヨ", "examples": ["ショッピング (shoppingu) - shopping"], "strokeSvg": null },
+
+      { "char": "チャ", "romaji": "cha", "from": "チ + ヤ", "examples": ["チャーハン (chāhan) - fried rice"], "strokeSvg": null },
+      { "char": "チュ", "romaji": "chu", "from": "チ + ユ", "examples": ["チューブ (chūbu) - tube"], "strokeSvg": null },
+      { "char": "チョ", "romaji": "cho", "from": "チ + ヨ", "examples": ["チョコ (choko) - chocolate"], "strokeSvg": null },
+
+      { "char": "ニャ", "romaji": "nya", "from": "ニ + ヤ", "examples": ["ニャン (nyan) - meow"], "strokeSvg": null },
+      { "char": "ニュ", "romaji": "nyu", "from": "ニ + ユ", "examples": ["ニュース (nyūsu) - news"], "strokeSvg": null },
+      { "char": "ニョ", "romaji": "nyo", "from": "ニ + ヨ", "examples": ["ニョロニョロ (nyoronyoro) - wiggling"], "strokeSvg": null },
+
+      { "char": "ヒャ", "romaji": "hya", "from": "ヒ + ヤ", "examples": ["ヒャク (hyaku) - hundred"], "strokeSvg": null },
+      { "char": "ヒュ", "romaji": "hyu", "from": "ヒ + ユ", "examples": ["ヒューマン (hyūman) - human"], "strokeSvg": null },
+      { "char": "ヒョ", "romaji": "hyo", "from": "ヒ + ヨ", "examples": ["ヒョウ (hyō) - leopard"], "strokeSvg": null },
+
+      { "char": "ミャ", "romaji": "mya", "from": "ミ + ヤ", "examples": ["ミャク (myaku) - pulse"], "strokeSvg": null },
+      { "char": "ミュ", "romaji": "myu", "from": "ミ + ユ", "examples": ["ミュージック (myūjikku) - music"], "strokeSvg": null },
+      { "char": "ミョ", "romaji": "myo", "from": "ミ + ヨ", "examples": ["ミョウガ (myōga) - ginger"], "strokeSvg": null },
+
+      { "char": "リャ", "romaji": "rya", "from": "リ + ヤ", "examples": ["リャク (ryaku) - abbreviation"], "strokeSvg": null },
+      { "char": "リュ", "romaji": "ryu", "from": "リ + ユ", "examples": ["リュック (ryukku) - backpack"], "strokeSvg": null },
+      { "char": "リョ", "romaji": "ryo", "from": "リ + ヨ", "examples": ["リョウリ (ryōri) - cooking"], "strokeSvg": null }
+    ]
+  }
+}
